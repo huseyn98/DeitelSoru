@@ -4,7 +4,7 @@
 int main(){
   int n,faktoriyel;
   faktoriyel=1;
-  printf("n i girin: s");
+  printf("n i girin:");
   scanf("%d",&n);
   while(n>=1){
     faktoriyel=faktoriyel*n;
